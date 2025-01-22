@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <content-type>/component/tout</content-type>
+  <display-template>/templates/web/my-components/tout.ftl</display-template>
+  <no-template-required>true</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>1307</objectGroupId>
+  <objectId>13072b04-0500-29c5-6f8e-f124279faae6</objectId>
+  <internal-name>All's Well that Ends Well</internal-name>
+  <title_t tokenized="true"><![CDATA[All's Well that Ends Well!!!]]></title_t>
+  <callToActionText_t tokenized="true">Read More</callToActionText_t>
+  <callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap02</callToActionHref_s>
+  <file-name>13072b04-0500-29c5-6f8e-f124279faae6.xml</file-name>
+  <folder-name/>
+  <snippet_t>
+    COUNTESS.
+In delivering my son from me, I bury a second husband.
+BERTRAM.
+  </snippet_t>
+  <image_s>/static-assets/content/images/landscapes/33610845122_72fc7053cf_b.jpg</image_s>
+  <createdDate>2025-01-09T13:42:19.502Z</createdDate>
+  <createdDate_dt>2025-01-09T13:42:19.502Z</createdDate_dt>
+  <lastModifiedDate>2025-01-21T12:27:51.053Z</lastModifiedDate>
+  <lastModifiedDate_dt>2025-01-21T12:27:51.053Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/rssfeed</content-type>
+	<display-template>/templates/web/my-components/rssfeed.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b532</objectGroupId>
+	<objectId>b532c863-3b56-9107-8ef3-f9a6a72dae21</objectId>
+	<file-name>b532c863-3b56-9107-8ef3-f9a6a72dae21.xml</file-name>
+	<folder-name/>
+	<snippet_t>Check out the latest news from NASA by clicking on the links below.</snippet_t>
+	<internal-name>Breaking News (NASA)</internal-name>
+	<title_s tokenized="true">Breaking News from NASA</title_s>
+	<feedUrl_s>https://www.nasa.gov/rss/dyn/breaking_news.rss</feedUrl_s>
+	<createdDate>2025-01-21T14:29:06.883Z</createdDate>
+	<createdDate_dt>2025-01-21T14:29:06.883Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T14:29:06.883Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T14:29:06.883Z</lastModifiedDate_dt>
+</component>

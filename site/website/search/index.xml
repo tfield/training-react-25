@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>69d6</objectGroupId>
+	<objectId>69d62ad2-fbfe-e617-bf21-f8155e3cd2e1</objectId>
+	<disabled>false</disabled>
+	<internal-name>Search</internal-name>
+	<title_t>Search</title_t>
+	<file-name>index.xml</file-name>
+	<folder-name>search</folder-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>3000</orderDefault_f>
+	<sections_o item-list="true"/>
+	<body_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</body_html>
+	<createdDate>2025-01-21T13:29:19.776Z</createdDate>
+	<createdDate_dt>2025-01-21T13:29:19.776Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T14:32:39.869Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T14:32:39.869Z</lastModifiedDate_dt>
+</page>

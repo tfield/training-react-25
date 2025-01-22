@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tout</content-type>
+	<display-template>/templates/web/my-components/tout.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a268</objectGroupId>
+	<objectId>a268d62f-d82a-3612-67ef-ec89409e3b7a</objectId>
+	<file-name>a268d62f-d82a-3612-67ef-ec89409e3b7a.xml</file-name>
+	<folder-name/>
+	<internal-name>The Tragedy of Antony and Cleopatra</internal-name>
+	<title_t tokenized="true">The Tragedy of Antony and Cleopatra</title_t>
+	<callToActionText_t tokenized="true">Read More</callToActionText_t>
+	<callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap03</callToActionHref_s>
+	<snippet_t>PHILO.
+Nay, but this dotage of our general’s
+O’erflows the measure. Those his goodly eyes,
+That o’er the files and musters of the war
+Have glowed like plated Mars, now bend, now turn
+The office and devotion of their view
+Upon a tawny front. </snippet_t>
+	<image_s>/static-assets/content/images/landscapes/3926128724_7430e9cdf1_b.jpg</image_s>
+	<createdDate>2025-01-09T13:43:40.141Z</createdDate>
+	<createdDate_dt>2025-01-09T13:43:40.141Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T12:13:46.087Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T12:13:46.087Z</lastModifiedDate_dt>
+</component>

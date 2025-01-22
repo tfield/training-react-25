@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f6f</objectGroupId>
+	<objectId>3f6f218d-7178-b100-0a6d-53abc272556d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>example</folder-name>
+	<internal-name>Example</internal-name>
+	<title_t>My Example Page</title_t>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>5000</orderDefault_f>
+	<disabled>false</disabled>
+	<sections_o item-list="true"/>
+	<body_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</body_html>
+	<createdDate>2025-01-21T13:33:45.831Z</createdDate>
+	<createdDate_dt>2025-01-21T13:33:45.831Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T14:32:29.310Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T14:32:29.310Z</lastModifiedDate_dt>
+</page>

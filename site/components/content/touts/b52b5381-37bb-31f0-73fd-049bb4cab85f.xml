@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tout</content-type>
+	<display-template>/templates/web/my-components/tout.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b52b</objectGroupId>
+	<objectId>b52b5381-37bb-31f0-73fd-049bb4cab85f</objectId>
+	<file-name>b52b5381-37bb-31f0-73fd-049bb4cab85f.xml</file-name>
+	<folder-name/>
+	<internal-name>As You Like It</internal-name>
+	<title_t tokenized="true">As You Like It</title_t>
+	<callToActionText_t tokenized="true">Read More</callToActionText_t>
+	<callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap04</callToActionHref_s>
+	<snippet_t>ORLANDO.
+As I remember, Adam, it was upon this fashion bequeathed me by will but poor a thousand crowns, and, as thou sayst, charged my brother, on his blessing, to breed me well; and there begins my sadness.</snippet_t>
+	<image_s>/static-assets/content/images/landscapes/4543929183_58d0651c14.jpg</image_s>
+	<createdDate>2025-01-09T13:44:37.410Z</createdDate>
+	<createdDate_dt>2025-01-09T13:44:37.410Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T12:13:40.349Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T12:13:40.349Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tout</content-type>
+	<display-template>/templates/web/my-components/tout.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0b1c</objectGroupId>
+	<objectId>0b1cef9b-2b12-4f0a-7182-5a924819220e</objectId>
+	<file-name>0b1cef9b-2b12-4f0a-7182-5a924819220e.xml</file-name>
+	<folder-name/>
+	<snippet_t>EGEON.
+Proceed, Solinus, to procure my fall,
+And by the doom of death end woes and all.
+DUKE.
+Merchant of Syracusa, plead no more.
+I am not partial to infringe our laws.</snippet_t>
+	<internal-name>The Comedy of Errors</internal-name>
+	<title_t tokenized="true">The Comedy of Errors</title_t>
+	<callToActionText_t tokenized="true">Read More</callToActionText_t>
+	<callToActionHref_s>https://www.gutenberg.org/files/100/100-h/100-h.htm#chap05</callToActionHref_s>
+	<image_s>/static-assets/content/images/landscapes/53139137075_a380f2fc76_b.jpg</image_s>
+	<createdDate>2025-01-09T13:45:39.922Z</createdDate>
+	<createdDate_dt>2025-01-09T13:45:39.922Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T12:12:12.359Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T12:12:12.359Z</lastModifiedDate_dt>
+</component>

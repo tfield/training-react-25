@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;h1&gt;Welcome to Your CrafterCMS Project.&lt;/h1&gt;
+&lt;p&gt;This project blueprint is the equivalent of a Hello World. It's a blank slate on which you can build your own digital experience.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To create new content types use the Project Tools &amp;gt; Content Types menu on the left Sidebar&lt;/li&gt;
+&lt;li&gt;To update markup, edit this template by clicking on the Options menu on the top toolbar and select "Edit Template"&lt;/li&gt;
+&lt;li&gt;To modify this text, hover/click on it or use the options menu and select "Edit" on the top toolbar&lt;/li&gt;
+&lt;li&gt;Crafter documentation can be found &lt;a href="https://docs.craftercms.org" target="_blank" rel="noopener"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CrafterCMS authoring and developer training is available. Please contact &lt;a href="mailto:info@craftercms.com"&gt;info@craftercms.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;p&gt;This content is managed by the form. &amp;nbsp;Click edit to change OR in the upper right hand corner, click the pencil to turn on edit mode.&lt;/p&gt;
+&lt;/div&gt;</body_html>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2025-01-21T14:32:54.972Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-01-21T14:32:54.972Z</lastModifiedDate_dt>
+	<title_t>Hello, is there anybody out there?</title_t>
+	<disabled>false</disabled>
+	<sections_o item-list="true">	<item>	<key>/site/components/content/touts/0b1cef9b-2b12-4f0a-7182-5a924819220e.xml</key>
+	<value>The Comedy of Errors</value>
+	<include>/site/components/content/touts/0b1cef9b-2b12-4f0a-7182-5a924819220e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/content/touts/13072b04-0500-29c5-6f8e-f124279faae6.xml</key>
+	<value>All's Well that Ends Well</value>
+	<include>/site/components/content/touts/13072b04-0500-29c5-6f8e-f124279faae6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/content/touts/b52b5381-37bb-31f0-73fd-049bb4cab85f.xml</key>
+	<value>As You Like It</value>
+	<include>/site/components/content/touts/b52b5381-37bb-31f0-73fd-049bb4cab85f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/content/feeds/3c254251-9801-77f7-b36d-34c2004b5145.xml</key>
+	<value>Breaking News (NYT)</value>
+	<include>/site/components/content/feeds/3c254251-9801-77f7-b36d-34c2004b5145.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+</page>
