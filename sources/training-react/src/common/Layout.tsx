@@ -6,7 +6,6 @@ function Layout(props: any) {
   return (
     <div id="page-wrapper">
       <Header />
-
       <Menu />
       {props.children}
       <Footer />
