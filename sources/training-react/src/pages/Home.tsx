@@ -28,9 +28,7 @@ function Home() {
               <h2>
                 <RenderField model={model} fieldId={'title_t'} />
               </h2>
-              <div>
-                <RenderField model={model} fieldId={'body_html'} />
-              </div>
+              <div>Hello, this is the body.</div>
             </ExperienceBuilder>
           )}
         </div>
