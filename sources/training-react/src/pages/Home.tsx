@@ -16,6 +16,8 @@ function Home() {
       setModel(model instanceof Array ? model[0] : model);
     });
   }, []);
+
+  console.log('model', model);
   return (
     <Suspense fallback={<div />}>
       <section id="banner">
