@@ -21,6 +21,18 @@
 
 <site>
     <version>4.0.1</version>
+    <spa>
+        <enable>true</enable>
+        <viewName>/templates/spa.ftl</viewName>
+    </spa>
+    <filters>
+        <filter>
+            <script>/scripts/filters/spa.groovy</script>
+            <mapping>
+                <include>/**</include>
+            </mapping>
+        </filter>
+    </filters>
     <cors>
         <enable>true</enable>
         <accessControlMaxAge>3600</accessControlMaxAge>
