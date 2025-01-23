@@ -55,7 +55,7 @@
       </server>
       <server>
          <id>preview</id>
-         <url></url>
+         <url>http://localhost:5173</url>
          <patterns>
             <pattern>.*</pattern>
          </patterns>
