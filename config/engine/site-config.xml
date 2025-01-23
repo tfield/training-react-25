@@ -22,7 +22,7 @@
 <site>
     <version>4.0.1</version>
     <spa>
-        <enable>true</enable>
+        <enabled>true</enabled>
         <viewName>/templates/spa.ftl</viewName>
     </spa>
     <filters>
